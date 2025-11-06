@@ -288,7 +288,6 @@
             <h2>Executive Summary</h2>
             <p>In the academic and professional world, the dissemination of information about a researcher's work is traditionally limited to static documents like curriculum vitae and personal websites. These formats, while comprehensive, lack interactivity and can be cumbersome for users seeking specific information. This white paper details the design, architecture, and features of Aadri, a virtual chatbot assistant developed to address this challenge. Aadri leverages a Retrieval-Augmented Generation (RAG) architecture powered by the Google Gemini API to provide a dynamic, conversational, and context-aware interface to a scientific professional profile. The system is designed not only to answer questions accurately based on a grounded knowledge base but also to engage users through a sophisticated, persona-driven interaction model, setting up a new standard for professional self-presentation.</p>
         </div>
-
         <section>
             <h2><span class="section-number">01</span> Introduction</h2>
             <p>The modern academic landscape requires researchers to communicate their work effectively to a diverse audience, including prospective students, potential collaborators, research institutions, and industry partners. The traditional CV, while a staple of academic life, is a one-way communication tool. It presents information in a linear, non-interactive format, forcing the reader to manually parse dense text to find relevant details.</p>
